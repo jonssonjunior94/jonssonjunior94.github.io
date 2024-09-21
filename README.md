@@ -77,24 +77,6 @@ RIP Yuzu 04-03-2024.
 - [Firefox Profilemaker](https://ffprofile.com/) Tool to create a Firefox profile with the defaults you like.
 - Extras: [Compact Mode](https://support.mozilla.org/en-US/kb/compact-mode-workaround-firefox)
 
-### about:config settings:
-
-- Remove Fullscreen Transition Animation
--      full-screen-api.transition-duration.enter = 
-       full-screen-api.transition-duration.leave =           Change values to "0 0"
-
-- Disable "enable DRM" banner to prompt
--      browser.eme.ui.enabled
-                                                             Change value to "false"
-
-- Remove Recommended Extensions from showing up in add-ons manager
--      extensions.htmlaboutaddons.discover.enabled
-       extensions.htmlaboutaddons.recommendations.enabled
-                                                             Change value to "false"
-   
-- Addons: [uBlock Origin](https://addons.mozilla.org/de/firefox/addon/ublock-origin/) [Imagus](https://addons.mozilla.org/en-US/firefox/addon/imagus/) [SponsorBlock](https://addons.mozilla.org/en-US/firefox/addon/sponsorblock/) [ClearURLs](https://addons.mozilla.org/en-US/firefox/addon/clearurls/) [TWP](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/) [User-Agent Switcher](https://addons.mozilla.org/en-US/firefox/addon/uaswitcher/) [Google Mail Checker](https://addons.mozilla.org/en-US/firefox/addon/ff-google-mail-checker/) [Gumbo: Twitch Companion](https://addons.mozilla.org/en-US/firefox/addon/gumbo-twitch-companion/)
-
-&nbsp;
 
 #### Chrome
 
@@ -104,25 +86,6 @@ Disable "Clear Cookies" to save settings and login information at visited sites.
 - [Chrome Bookmarks Recovery Tool](https://rongjiecomputer.github.io/chrome/bookmark-recovery/#windows) Best way i have found to back up bookmarks from Google Chrome as a .html file to easily use with Ungoogled Chromium.
 
 &nbsp;
-
-&nbsp;
-
-### Useful Websites
-- [Send](https://github.com/timvisee/send-instances/#instances) - Share encrypted files with ease.
-- [Gmailnator](https://www.emailnator.com/) - Temporary Disposable Gmail. (Use Adblock)
-- [Redirect Detective](https://redirectdetective.com/) - URL redirection checker, see the complete path a redirected URL goes through.
-- [Have i been pwned](https://haveibeenpwned.com/) - Check if your email or phone is in a data breach. Only publicly discovered breaches.
-- [IsThereAnyDeal](https://isthereanydeal.com/?currency=USD) - A useful little web tool that tracks PC game prices across a variety of sources, including Steam.
-- [VirusTotal](https://www.virustotal.com/gui/home/upload) - Free service that analyzes files and URLs for viruses. It's not advisable to upload sensitive files.
-- [NMHDDS](https://doyou.needmorehdd.space/?fileType=&query=chrome#) NMHDDS Google Open Directory Search Tool. Get direct download links to (almost) anything.
-  
-&nbsp;
-
-- [Test Ad Block](https://d3ward.github.io/toolz/adblock.html) This tool allows you to check if your adblock solution is blocking enough hosts.
-- [dnscheck.tools](https://dnscheck.tools/) Identifies your DNS resolvers, checks DNSSEC validation, and more.
-- [ipaddr.tools](https://myip.addr.tools/help) get your public IP address.
-- [RDAP data](https://info.addr.tools/me) Displays relevant DNS records and RDAP registration data.
-- [Port Checker](https://portchecker.co/) Check for open ports and verify port forwarding setup on your router.
 
 &nbsp;
 
