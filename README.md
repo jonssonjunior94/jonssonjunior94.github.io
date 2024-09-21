@@ -4,7 +4,7 @@
 
 ![firefox_ch3iRScWSX2222](https://github.com/user-attachments/assets/3b8433d5-c8e1-4cd1-a50d-41301ab7f43d)
 
-<img src="https://github.com/user-attachments/assets/3b8433d5-c8e1-4cd1-a50d-41301ab7f43d" width="100" height="100"
+<img src="https://github.com/user-attachments/assets/3b8433d5-c8e1-4cd1-a50d-41301ab7f43d" width="10" height="10"
 
 
 &nbsp;
