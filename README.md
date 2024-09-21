@@ -2,7 +2,10 @@
 ![status](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/status/276544649148235776?simple=true)
 ![playing](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/playing/276544649148235776)
 
-![image](https://github.com/user-attachments/assets/4ccdf5f3-1f4b-47c9-ab67-e5e9345c7cec=250x250 "Title" {width=40px height=400px})
+![firefox_ch3iRScWSX2222](https://github.com/user-attachments/assets/3b8433d5-c8e1-4cd1-a50d-41301ab7f43d)
+
+<img src="https://github.com/user-attachments/assets/3b8433d5-c8e1-4cd1-a50d-41301ab7f43d" width="100" height="100"
+
 
 &nbsp;
 
