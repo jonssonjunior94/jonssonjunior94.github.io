@@ -5,10 +5,6 @@
 
 ![firefox_s3UFc8kRY6](https://github.com/user-attachments/assets/4595eb6f-6352-485e-b9ac-1c301019edff)
 
-
-
-&nbsp;
-
 &nbsp;
 
 ### Portable Applications
