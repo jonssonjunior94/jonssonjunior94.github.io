@@ -19,7 +19,7 @@
 - [VLC](https://www.videolan.org/vlc/download-windows.html) - VLC is a free and open source cross-platform multimedia player and framework that plays most multimedia files.
 
 
-##### Extras
+#### Extras
 - [qBittorrent](https://github.com/portapps/qbittorrent-portable/releases) - qBittorrent is a open-source BitTorrent client written in native C++. [Search plugin](https://github.com/qbittorrent/search-plugins/wiki/Unofficial-search-plugins)
 - [Scrcpy](https://github.com/Genymobile/scrcpy) - This application provides display and control of Android devices connected via USB.
 - [yt-dlp](https://github.com/yt-dlp/yt-dlp) - A youtube-dl fork with additional features and fixes. Works great with [yt-dl-gui](https://github.com/oleksis/youtube-dl-gui).
@@ -32,9 +32,7 @@
 
 &nbsp;
 
-&nbsp;
-
-##### Emulators and ROMs
+#### Emulators and ROMs
 - [Yuzu](https://github.com/yuzu-emu/yuzu-mainline) (Switch) To make Yuzu portable create a folder named "user" inside the installation directory.
 - [Dolphin](https://dolphin-emu.org/download/) (GameCube/Wii) To make Dolphin emulator portable create a .txt file named "portable" inside the installation directory.
 - [Cemu](https://wiki.cemu.info/wiki/Release_1.26.2f) (Wii U) Cemu is already portable.
@@ -53,7 +51,7 @@ RIP Yuzu 04-03-2024.
 
 &nbsp;
 
-##### DNS Blocklists
+#### DNS Blocklists
 - [Crazy Max's WindowsSpyBlocker - Hosts spy rules](https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/spy.txt)
 - [HaGeZi's Blocklist - Big Broom](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/pro.txt)
 - [HaGeZi's DoH/VPN/TOR/Proxy Bypass - Prevent methods to bypass your DNS](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/doh-vpn-proxy-bypass.txt)
@@ -64,11 +62,6 @@ RIP Yuzu 04-03-2024.
 - [Someone Who Cares](https://someonewhocares.org/hosts/zero/hosts)
 
 &nbsp;
-
-&nbsp;
-
-### Browsers
-
 
 #### Firefox
 
