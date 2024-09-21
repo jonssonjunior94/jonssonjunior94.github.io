@@ -2,6 +2,9 @@
 ![status](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/status/276544649148235776?simple=true)
 ![playing](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/playing/276544649148235776)
 
+![firefox_ch3iRScWSX2222](https://github.com/user-attachments/assets/4ccdf5f3-1f4b-47c9-ab67-e5e9345c7cec)
+
+
 &nbsp;
 
 &nbsp;
