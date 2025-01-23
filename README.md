@@ -51,7 +51,7 @@ RIP Yuzu 04-03-2024.
 - [Rufus](https://rufus.ie/downloads/) Rufus is a utility that helps format and create bootable USB flash drives.
 - [Ventoy](https://github.com/ventoy/Ventoy/releases) Ventoy is an open source tool to create bootable USB drive for ISO/WIM/IMG/VHD(x)/EFI files.
 - [Tails](https://tails.net/install/) Is a portable operating system that protects against surveillance and censorship.
-- [FAT32 Format](http://ridgecrop.co.uk/index.htm?guiformat.htm)
+- [FAT32 Format](http://ridgecrop.co.uk/index.htm?guiformat.htm) FAT32 format tool.
 
 &nbsp;
 
