@@ -42,9 +42,8 @@
 - [Dolphin](https://dolphin-emu.org/download/) (GameCube/Wii) To make Dolphin emulator portable create a .txt file named "portable" inside the installation directory.
 - [Cemu](https://wiki.cemu.info/wiki/Release_1.26.2f) (Wii U) Cemu is already portable.
 
-
 RIP Yuzu 04-03-2024.
-- Yuzu 1734 [Mediafire](https://www.mediafire.com/file/eodvqt2uavymowj/Yuzu_1734.zip/file)
+
 
 &nbsp;
 
