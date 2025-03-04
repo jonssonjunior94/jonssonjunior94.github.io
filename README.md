@@ -19,6 +19,7 @@
 - [Libre Hardware Monitor](https://github.com/LibreHardwareMonitor/LibreHardwareMonitor) - Libre Hardware Monitor, a fork of Open Hardware Monitor.
 - [Geek Uninstaller](https://geekuninstaller.com/) - Geek Uninstaller is a perfectly functional uninstaller. Also removes attached registry keys.
 - [Olive Video Editor](https://github.com/olive-editor/olive) Free open-source non-linear video editor.
+- [Twinkle Tray](https://github.com/xanderfrangos/twinkle-tray) Monitor Brightness Slider. Make it portable by opening the .exe archive with 7zip and extract `Twinkle.Tray.v1.16.6.exe\$PLUGINSDIR\app-64.7z\` to chosen location.
 - [Notepad++](https://notepad-plus-plus.org/downloads/) - Notepad++ is a great replacement for Windows notepad. It's a good choice for beginners.
 - [VLC](https://www.videolan.org/vlc/download-windows.html) - VLC is a free and open source cross-platform multimedia player and framework that plays most multimedia files.
 
