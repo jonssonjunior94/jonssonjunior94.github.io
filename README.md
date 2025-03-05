@@ -50,7 +50,7 @@
 - [OISD BIG](https://big.oisd.nl/)
 - [Someone Who Cares](https://someonewhocares.org/hosts/zero/hosts)
 - [Fingerprinting Blocklist](https://divested.dev/blocklists/Fingerprinting.ubl)
-- (Fademind's 2o7 Network Trackers)[https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.2o7Net/hosts]
+- [Fademind's 2o7 Network Trackers](https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.2o7Net/hosts)
 
 &nbsp;
 
