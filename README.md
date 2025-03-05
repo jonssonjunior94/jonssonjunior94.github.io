@@ -39,7 +39,7 @@
 
 &nbsp;
 
-### Home Assistant
+#### Home Assistant
 - [Home Assistant](https://www.home-assistant.io/installation/) Home Assistant is free and open-source software used for home automation. It serves as an integration platform and smart home hub.
 - [HACS](https://www.hacs.xyz/docs/use/) HACS is a custom integration that provides a UI to manage custom elements in Home Assistant.
 - [Custom Repositorie](https://github.com/alexbelgium/hassio-addons) alexbelgium.
@@ -49,7 +49,7 @@
 
 &nbsp;
 
-### Emulators and ROMs
+#### Emulators and ROMs
 - [Yuzu](https://github.com/yuzu-emu/yuzu-mainline) (Switch) To make Yuzu portable create a folder named "user" inside the installation directory.
 - [Dolphin](https://dolphin-emu.org/download/) (GameCube/Wii) To make Dolphin emulator portable create a .txt file named "portable" inside the installation directory.
 - [Cemu](https://wiki.cemu.info/wiki/Release_1.26.2f) (Wii U) Cemu is already portable.
@@ -60,7 +60,7 @@ RIP Yuzu 04-03-2024.
 
 &nbsp;
 
-### USB Tools & Operating Systems
+#### USB Tools & Operating Systems
 
 - [Rufus](https://rufus.ie/downloads/) Rufus is a utility that helps format and create bootable USB flash drives.
 - [Ventoy](https://github.com/ventoy/Ventoy/releases) Ventoy is an open source tool to create bootable USB drive for ISO/WIM/IMG/VHD(x)/EFI files.
