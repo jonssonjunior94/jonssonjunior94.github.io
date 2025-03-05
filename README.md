@@ -39,22 +39,6 @@
 
 &nbsp;
 
-#### Home Assistant
-- [Home Assistant](https://www.home-assistant.io/installation/) Home Assistant is free and open-source software used for home automation. It serves as an integration platform and smart home hub.
-- [HACS](https://www.hacs.xyz/docs/use/) HACS is a custom integration that provides a UI to manage custom elements in Home Assistant.
-- [Custom Repositorie](https://github.com/alexbelgium/hassio-addons) alexbelgium.
-
-#### DNS Blocklists
-- [HaGeZi's Blocklist](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/pro.txt)
-- [hBlock - Adblock](https://hblock.molinero.dev/hosts_adblock.txt)
-- [OISD BIG](https://big.oisd.nl/)
-- [Someone Who Cares](https://someonewhocares.org/hosts/zero/hosts)
-- [Fingerprinting Blocklist](https://divested.dev/blocklists/Fingerprinting.ubl)
-- [Fademind's 2o7 Network Trackers](https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.2o7Net/hosts)
-- [Encrypt The Planet - Windows Anti Spy](https://encrypt-the-planet.com/downloads/hosts)
-
-&nbsp;
-
 #### Emulators and ROMs
 - [Yuzu](https://github.com/yuzu-emu/yuzu-mainline) (Switch) To make Yuzu portable create a folder named "user" inside the installation directory.
 - [Dolphin](https://dolphin-emu.org/download/) (GameCube/Wii) To make Dolphin emulator portable create a .txt file named "portable" inside the installation directory.
@@ -82,6 +66,15 @@ RIP Yuzu 04-03-2024.
 - [Firefox Profilemaker](https://ffprofile.com/) Tool to create a Firefox profile with the defaults you like.
 - Extras: [Compact Mode](https://support.mozilla.org/en-US/kb/compact-mode-workaround-firefox)
 - Browser Extensions [uBlock Origin](https://github.com/gorhill/uBlock) [SponsorBlock](https://github.com/ajayyy/SponsorBlock) [Imagus](https://addons.mozilla.org/en-US/firefox/addon/imagus/) [Buster](https://github.com/dessant/buster)
+
+##### DNS Blocklists
+- [HaGeZi's Blocklist](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/pro.txt)
+- [hBlock - Adblock](https://hblock.molinero.dev/hosts_adblock.txt)
+- [OISD BIG](https://big.oisd.nl/)
+- [Someone Who Cares](https://someonewhocares.org/hosts/zero/hosts)
+- [Fingerprinting Blocklist](https://divested.dev/blocklists/Fingerprinting.ubl)
+- [Fademind's 2o7 Network Trackers](https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.2o7Net/hosts)
+- [Encrypt The Planet - Windows Anti Spy](https://encrypt-the-planet.com/downloads/hosts)
 
 
 #### Chrome
