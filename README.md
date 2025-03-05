@@ -77,6 +77,8 @@ RIP Yuzu 04-03-2024.
 - [Encrypt The Planet - Windows Anti Spy](https://encrypt-the-planet.com/downloads/hosts)
 
 
+&nbsp;
+
 #### Chrome
 
 - [Ungoogled-Chromium](https://github.com/ungoogled-software/ungoogled-chromium-windows/releases)
