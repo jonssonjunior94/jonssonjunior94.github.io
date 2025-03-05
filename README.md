@@ -39,6 +39,16 @@
 
 &nbsp;
 
+#### Home Assistant
+- [Home Assistant](https://www.home-assistant.io/installation/) Home Assistant is free and open-source software used for home automation. It serves as an integration platform and smart home hub.
+- [HACS](https://www.hacs.xyz/docs/use/) HACS is a custom integration that provides a UI to manage custom elements in Home Assistant.
+- [Custom Repositorie](https://github.com/alexbelgium/hassio-addons) alexbelgium.
+
+### DNS Blocklists
+- [HaGeZi's Blocklist](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/pro.txt) [hBlock - Adblock](https://hblock.molinero.dev/hosts_adblock.txt) [OISD BIG](https://big.oisd.nl/) [Someone Who Cares](https://someonewhocares.org/hosts/zero/hosts) [Fingerprinting Blocklist](https://divested.dev/blocklists/Fingerprinting.ubl) 
+
+&nbsp;
+
 #### Emulators and ROMs
 - [Yuzu](https://github.com/yuzu-emu/yuzu-mainline) (Switch) To make Yuzu portable create a folder named "user" inside the installation directory.
 - [Dolphin](https://dolphin-emu.org/download/) (GameCube/Wii) To make Dolphin emulator portable create a .txt file named "portable" inside the installation directory.
