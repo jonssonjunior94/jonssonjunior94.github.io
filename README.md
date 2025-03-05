@@ -45,7 +45,7 @@
 - [Custom Repositorie](https://github.com/alexbelgium/hassio-addons) alexbelgium.
 
 #### DNS Blocklists
-- [HaGeZi's Blocklist](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/pro.txt) [hBlock - Adblock](https://hblock.molinero.dev/hosts_adblock.txt) [OISD BIG](https://big.oisd.nl/) [Someone Who Cares](https://someonewhocares.org/hosts/zero/hosts) [Fingerprinting Blocklist](https://divested.dev/blocklists/Fingerprinting.ubl) 
+- [HaGeZi's Blocklist](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/pro.txt), [hBlock - Adblock](https://hblock.molinero.dev/hosts_adblock.txt), [OISD BIG](https://big.oisd.nl/), [Someone Who Cares](https://someonewhocares.org/hosts/zero/hosts), [Fingerprinting Blocklist](https://divested.dev/blocklists/Fingerprinting.ubl) 
 
 &nbsp;
 
