@@ -51,6 +51,7 @@
 - [Someone Who Cares](https://someonewhocares.org/hosts/zero/hosts)
 - [Fingerprinting Blocklist](https://divested.dev/blocklists/Fingerprinting.ubl)
 - [Fademind's 2o7 Network Trackers](https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.2o7Net/hosts)
+- [Encrypt The Planet - Windows Anti Spy](https://encrypt-the-planet.com/downloads/hosts)
 
 &nbsp;
 
