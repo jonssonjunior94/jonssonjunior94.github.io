@@ -65,7 +65,7 @@ RIP Yuzu 04-03-2024.
 - [Mozilla FTP - Nightly](https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/) Installer or Portable.
 - [Firefox Profilemaker](https://ffprofile.com/) Tool to create a Firefox profile with the defaults you like.
 - Extras: [Compact Mode](https://support.mozilla.org/en-US/kb/compact-mode-workaround-firefox)
-- Browser Extensions [uBlock Origin](https://github.com/gorhill/uBlock) [SponsorBlock](https://github.com/ajayyy/SponsorBlock) [Imagus](https://addons.mozilla.org/en-US/firefox/addon/imagus/) [Buster](https://github.com/dessant/buster)
+- Browser Extensions [uBlock Origin](https://github.com/gorhill/uBlock) [SponsorBlock](https://github.com/ajayyy/SponsorBlock) [Imagus](https://addons.mozilla.org/en-US/firefox/addon/imagus/) [Buster](https://github.com/dessant/buster) [Gumbo](https://addons.mozilla.org/en-US/firefox/addon/gumbo-twitch-companion/) [Mail Checker](https://addons.mozilla.org/en-US/firefox/addon/ff-google-mail-checker/)
 
 ##### DNS Blocklists
 - [HaGeZi's Blocklist](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/pro.txt)
