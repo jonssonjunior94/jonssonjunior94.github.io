@@ -61,7 +61,7 @@ RIP Yuzu 04-03-2024.
 
 #### Firefox
 
-- [Mozilla FTP](https://ftp.mozilla.org/pub/firefox/releases/) Installer.
+- [Mozilla FTP](https://ftp.mozilla.org/pub/firefox/releases/) Installer. Ctrl+F search for [newest version](https://www.mozilla.org/en-US/firefox/releases/)
 - [Mozilla FTP - Nightly](https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/) Installer or Portable.
 - [Firefox Profilemaker](https://ffprofile.com/) Tool to create a Firefox profile with the defaults you like.
 - Extras: [Compact Mode](https://support.mozilla.org/en-US/kb/compact-mode-workaround-firefox)
