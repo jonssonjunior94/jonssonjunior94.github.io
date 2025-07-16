@@ -89,7 +89,7 @@ Disable "Clear Cookies" to save settings and login information at visited sites.
 
 #### Windows 
 
-- [W10 IoT Enterprise LTSC - Build 19044.1288](https://drive.massgrave.dev/en-us_windows_10_iot_enterprise_ltsc_2021_x64_dvd_257ad90f.iso)
+- [W10 IoT Enterprise LTSC - Build 19044.1288](https://drive.massgrave.dev/en-us_windows_10_iot_enterprise_ltsc_2021_x64_dvd_257ad90f.iso) Is a specialized version of Windows, with support until the year 2032 unlike the consumer version that hits EOL on October 14.
 
 &nbsp;
 
