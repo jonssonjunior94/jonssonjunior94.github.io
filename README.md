@@ -103,6 +103,8 @@ Copy and paste the code below:
 
 Then press enter.
 
+A window will open with different activation methods, press `1` for HWID (Hardware ID)
+
 
 &nbsp;
 
