@@ -97,10 +97,11 @@ Disable "Clear Cookies" to save settings and login information at visited sites.
 
 Open PowerShell or Terminal
 
-Copy and paste the code below, then press enter
+Copy and paste the code below:
 
 `irm https://get.activated.win | iex`
 
+Then press enter.
 
 
 &nbsp;
