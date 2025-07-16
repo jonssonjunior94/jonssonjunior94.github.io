@@ -105,6 +105,7 @@ Then press enter.
 
 A window will open with different activation methods, press `1` for HWID (Digital License)
 
+https://massgrave.dev/assets/images/MAS_AIO-97ec1fa241d2b6ac4acf28047058b80e.png
 
 &nbsp;
 
