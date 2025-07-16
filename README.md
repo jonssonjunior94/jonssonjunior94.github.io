@@ -93,7 +93,7 @@ Disable "Clear Cookies" to save settings and login information at visited sites.
 
 - W10 IoT LTSC Key: `QPM6N-7J2WJ-P88HH-P3YRH-YY74H`
 
-- HWID activation
+- HWID activation:
 
 Open PowerShell or Terminal
 
