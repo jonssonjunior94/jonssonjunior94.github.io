@@ -106,6 +106,12 @@ Then press enter.
 A window will open with different activation methods, press `1` for HWID (Digital License) [Example](https://massgrave.dev/assets/images/MAS_AIO-97ec1fa241d2b6ac4acf28047058b80e.png)
 
 
+#### Windows (extras)
+
+- [Show seconds in taskbar clock](https://github.com/jonssonjunior94/Windows-10-Settings-And-Portable-Applications#taskbar-clock)
+
+- [Mouse properties](https://github.com/jonssonjunior94/Windows-10-Settings-And-Portable-Applications?tab=readme-ov-file#mouse-properties)
+
 &nbsp;
 
 &nbsp;
