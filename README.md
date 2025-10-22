@@ -121,3 +121,138 @@ A window will open with different activation methods, press `1` for HWID (Digita
 &nbsp;
 
 &nbsp;
+
+&nbsp;
+
+&nbsp;
+
+### Power Options
+
+Press the Windows + R keys to open the Run dialog box.
+
+Type `powercfg.cpl` and then press Enter.
+
+Click the arrow "Show additional plans" and choose High performance.
+
+![image](https://user-images.githubusercontent.com/25332460/188212951-e8af5842-b11b-4f66-a72e-5f45fbb97ae4.png)
+
+If it is missing, you can manually add the High Performance plan:
+
+Press the Windows + R keys to open the Run dialog box.
+
+Type `powershell` and then press Enter.
+
+Type `powercfg -duplicatescheme 8c5e7fda-e8bf-4a96-9a85-a6e23a8c635c` in Powershell and press Enter.
+
+Done.
+
+&nbsp;
+
+&nbsp;
+
+_______________________________________________________________________________________________________________________________________________________
+
+&nbsp;
+
+&nbsp;
+
+### Mouse Properties
+
+Press the Windows + R keys to open the Run dialog box.
+
+Type `main.cpl` and then press Enter.
+
+Click the "Pointer Options" tab and unclick "Enhance pointer speed"
+
+
+
+![rundll32_c59SKJeOTp](https://user-images.githubusercontent.com/25332460/188221061-d85f4c16-c487-4e4c-89d7-ffe48c0c49c2.jpg)
+
+And click Ok.
+
+Done.
+
+&nbsp;
+
+&nbsp;
+
+_______________________________________________________________________________________________________________________________________________________
+
+&nbsp;
+
+&nbsp;
+
+### Taskbar Clock
+
+Press the Windows + R keys to open the Run dialog box.
+
+Type `Regedit` and then press Enter.
+
+Look for `HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\Advanced`
+
+Right-click the “Advanced” key in the left panel and select New > DWORD (32-bit) Value.
+
+![image](https://user-images.githubusercontent.com/25332460/188941115-dd8e3244-75e1-49a9-b266-40144f98bcf2.png)
+
+
+Name the value `ShowSecondsInSystemClock` and press Enter.
+
+![image](https://user-images.githubusercontent.com/25332460/188942366-19ff5571-dffb-4853-afce-758c6ae96b57.png)
+
+
+![image](https://user-images.githubusercontent.com/25332460/188942134-c946af69-ace8-495c-b4fc-4ee5dc3b0bf5.png)
+
+
+Double-click the value you just created, enter a value data of `1` and click OK.
+
+![image](https://user-images.githubusercontent.com/25332460/188941507-a2b2548b-174e-410b-bf88-eb96dff227e2.png)
+
+
+You can now close the Registry Editor. You will now have to sign out and in again or do the following command:
+
+Press the Windows + R keys to open the Run dialog box.
+
+Type `cmd` and then press Enter.
+
+Then type `taskkill /F /IM explorer.exe & start explorer` in cmd to restart Windows Explorer.exe
+
+And click Ok.
+
+Done.
+
+&nbsp;
+
+&nbsp;
+
+_______________________________________________________________________________________________________________________________________________________
+
+&nbsp;
+
+&nbsp;
+
+### Require UAC Password
+
+Press the Windows + R keys to open the Run dialog box.
+
+Type `Regedit` and then press Enter.
+
+Look for `HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\System`
+
+Double-click `ConsentPromptBehaviorAdmin`
+
+![regedit_K4dIJafjCK](https://user-images.githubusercontent.com/25332460/204880320-fe3e242e-fe7a-4e16-8d98-fdbc5a451c99.png)
+
+And set the value to `3`. (Default value is `5`)
+
+![regedit_Seezn86Crb](https://user-images.githubusercontent.com/25332460/204880315-10c1a541-711c-4140-9cec-6a9f2ac5a491.png)
+
+And click Ok.
+
+Done.
+
+&nbsp;
+
+&nbsp;
+
+_______________________________________________________________________________________________________________________________________________________
+
