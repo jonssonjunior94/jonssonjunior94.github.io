@@ -130,6 +130,16 @@ A window will open with different activation methods, press `1` for HWID (Digita
 
 &nbsp;
 
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
 ### Power Options
 
 Press the Windows + R keys to open the Run dialog box.
