@@ -36,6 +36,7 @@
 - [NVIDIA Profile Inspector](https://github.com/Orbmu2k/nvidiaProfileInspector) - Open source third-party tool created for pulling up and editing application profiles within Nvidia display drivers.
 - [FreeTube](https://github.com/FreeTubeApp/FreeTube/releases) - FreeTube is a YouTube client with a focus on privacy. [Importing your Subscriptions](https://docs.freetubeapp.io/usage/importing-subscriptions/)
 - [SuperF4](https://github.com/stefansundin/superf4) Kill programs instantly with Ctrl+Alt+F4.
+- [AutoHotkey](https://github.com/AutoHotkey/AutoHotkey/releases) Macro-creation and automation-oriented scripting utility for Windows.
 
 &nbsp;
 
