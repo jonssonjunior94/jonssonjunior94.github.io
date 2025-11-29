@@ -106,30 +106,11 @@ Then press enter.
 
 A window will open with different activation methods, press `1` for HWID (Digital License) [Example](https://miro.medium.com/v2/resize:fit:1296/1*Y2yaFn7MOK1x46Qgh887tg.png)
 
+&nbsp;
+
+&nbsp;
 
 #### Windows (extras)
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
 
 &nbsp;
 
