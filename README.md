@@ -109,32 +109,6 @@ A window will open with different activation methods, press `1` for HWID (Digita
 
 #### Windows (extras)
 
-- [Taskbar Clock](https://github.com/jonssonjunior94/Windows-10-Settings-And-Portable-Applications#taskbar-clock)
-
-- [Mouse Properties](https://github.com/jonssonjunior94/Windows-10-Settings-And-Portable-Applications?tab=readme-ov-file#mouse-properties)
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
 &nbsp;
 
 &nbsp;
