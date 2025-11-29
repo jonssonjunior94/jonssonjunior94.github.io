@@ -96,7 +96,7 @@ Disable "Clear Cookies" to save settings and login information at visited sites.
 
 - HWID activation:
 
-Open PowerShell or Terminal (Press the Windows + R, Type `cmd` or `powershell` and then press Enter.
+Open PowerShell or Terminal (Press the Windows + R, Type `cmd` or `powershell` and then press Enter.)
 
 Copy and paste the code below:
 
