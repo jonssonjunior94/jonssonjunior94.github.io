@@ -77,6 +77,8 @@ RIP Yuzu 04-03-2024.
 - [Fademind's 2o7 Network Trackers](https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.2o7Net/hosts)
 - [Encrypt The Planet - Windows Anti Spy](https://encrypt-the-planet.com/downloads/hosts)
 
+- [DNS Benchmark](https://www.grc.com/dns/benchmark.htm) 
+
 
 &nbsp;
 
