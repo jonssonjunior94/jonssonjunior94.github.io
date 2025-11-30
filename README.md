@@ -70,6 +70,14 @@ RIP Yuzu 04-03-2024.
 
 &nbsp;
 
+#### Chrome
+
+- [Ungoogled-Chromium](https://github.com/ungoogled-software/ungoogled-chromium-windows/releases)
+Disable "Clear Cookies" to save settings and login information at visited sites. `chrome://settings/cookies`
+- [Chrome Bookmarks Recovery Tool](https://rongjiecomputer.github.io/chrome/bookmark-recovery/#windows) Best way i have found to back up bookmarks from Google Chrome as a .html file to easily use with Ungoogled Chromium.
+
+&nbsp;
+
 ##### DNS Blocklists ([DNS Benchmark](https://www.grc.com/dns/benchmark.htm)) 
 - [HaGeZi's Blocklist](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/pro.txt)
 - [hBlock - Adblock](https://hblock.molinero.dev/hosts_adblock.txt)
@@ -83,12 +91,6 @@ RIP Yuzu 04-03-2024.
 - [AI Blocklist](https://raw.githubusercontent.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist/main/list.txt)
 
 &nbsp;
-
-#### Chrome
-
-- [Ungoogled-Chromium](https://github.com/ungoogled-software/ungoogled-chromium-windows/releases)
-Disable "Clear Cookies" to save settings and login information at visited sites. `chrome://settings/cookies`
-- [Chrome Bookmarks Recovery Tool](https://rongjiecomputer.github.io/chrome/bookmark-recovery/#windows) Best way i have found to back up bookmarks from Google Chrome as a .html file to easily use with Ungoogled Chromium.
 
 &nbsp;
 
