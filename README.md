@@ -60,6 +60,8 @@ RIP Yuzu 04-03-2024.
 
 &nbsp;
 
+&nbsp;
+
 #### Firefox
 
 - [Mozilla FTP](https://ftp.mozilla.org/pub/firefox/releases/) Installer. Ctrl+F search for the [latest version](https://www.mozilla.org/en-US/firefox/releases/).
