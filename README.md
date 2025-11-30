@@ -68,7 +68,7 @@ RIP Yuzu 04-03-2024.
 - Extras: [Compact Mode](https://support.mozilla.org/en-US/kb/compact-mode-workaround-firefox)
 - Browser Extensions [uBlock Origin](https://github.com/gorhill/uBlock) [SponsorBlock](https://github.com/ajayyy/SponsorBlock) [Imagus](https://addons.mozilla.org/en-US/firefox/addon/imagus/) [Buster](https://github.com/dessant/buster) [Gumbo](https://addons.mozilla.org/en-US/firefox/addon/gumbo-twitch-companion/) [Mail Checker](https://addons.mozilla.org/en-US/firefox/addon/ff-google-mail-checker/)
 
-##### DNS Blocklists
+##### DNS Blocklists [DNS Benchmark](https://www.grc.com/dns/benchmark.htm) 
 - [HaGeZi's Blocklist](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/pro.txt)
 - [hBlock - Adblock](https://hblock.molinero.dev/hosts_adblock.txt)
 - [OISD BIG](https://big.oisd.nl/)
