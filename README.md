@@ -122,6 +122,14 @@ A window will open with different activation methods, press `1` for HWID (Digita
 
 &nbsp;
 
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
 ### Windows (extras)
 
 &nbsp;
@@ -145,12 +153,6 @@ Type `powershell` and then press Enter.
 Type `powercfg -duplicatescheme 8c5e7fda-e8bf-4a96-9a85-a6e23a8c635c` in Powershell and press Enter.
 
 Done.
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
 
 &nbsp;
 
