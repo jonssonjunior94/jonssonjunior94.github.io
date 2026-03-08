@@ -15,11 +15,11 @@
 - [7-Zip](https://www.7-zip.org/download.html) - File archiver with a high compression ratio and built-in encryption functionality.
 - [ShareX](https://github.com/ShareX/ShareX/releases) - Lets you take screenshots of any selected area with a single key.
 - [Discord portable](https://github.com/portapps/discord-portable) - Portable instead of the regular auto install.
-- [Open Hardware Monitor](https://openhardwaremonitor.org/downloads/) - Free open source software that monitors temperatures, fans, voltages, load and clock.
 - [Libre Hardware Monitor](https://github.com/LibreHardwareMonitor/LibreHardwareMonitor) - Libre Hardware Monitor, a fork of Open Hardware Monitor.
 - [Geek Uninstaller](https://geekuninstaller.com/) - Geek Uninstaller is a perfectly functional uninstaller. Also removes attached registry keys.
 - [Olive Video Editor](https://github.com/olive-editor/olive) Free open-source non-linear video editor.
 - [Twinkle Tray](https://github.com/xanderfrangos/twinkle-tray) Monitor Brightness Slider. Make it portable by opening the .exe archive with [7-Zip](https://www.7-zip.org/download.html) and extract `Twinkle.Tray.v1.16.6.exe\$PLUGINSDIR\app-64.7z\` to chosen location.
+- [Fan Control](https://github.com/Rem0o/FanControl.Releases/releases) Fan Control is a highly customizable fan controlling software for Windows. 
 - [Notepad++](https://notepad-plus-plus.org/downloads/) - Notepad++ is a great replacement for Windows notepad. It's a good choice for beginners.
 - [VLC](https://www.videolan.org/vlc/download-windows.html) - VLC is a free and open source cross-platform multimedia player and framework that plays most multimedia files.
 
@@ -27,7 +27,7 @@
 
 - [qBittorrent](https://github.com/portapps/qbittorrent-portable/releases) - qBittorrent is a open-source BitTorrent client written in native C++. [Search plugin](https://github.com/qbittorrent/search-plugins/wiki/Unofficial-search-plugins)
 - [Scrcpy](https://github.com/Genymobile/scrcpy) - This application provides display and control of Android devices connected via USB.
-- [yt-dlp](https://github.com/yt-dlp/yt-dlp) - A youtube-dl fork with additional features and fixes. Works great with [yt-dl-gui](https://github.com/oleksis/youtube-dl-gui).
+- [yt-dlp](https://github.com/yt-dlp/yt-dlp) - A youtube-dl fork with additional features and fixes. Works great with [yt-dl-gui](https://github.com/StefanLobbenmeier/youtube-dl-gui/releases).
   Also [FFmpeg.](https://github.com/BtbN/FFmpeg-Builds/releases) copy the bin folder content to the folder that yt-dlp.exe is located at `(ffprobe, ffplay and ffmpeg)`. Settings to download with h264 or h265 codec:
    `$ yt-dlp -f "(bv*[vcodec~='^((he|a)vc|h26[45])']+ba) / (bv*+ba/b)"` And Filename Format `%(autonumber)02d. %(title)s`
 - [Twitch GUI](https://github.com/streamlink/streamlink-twitch-gui) - A multi platform Twitch.tv browser for [Streamlink](https://github.com/streamlink/windows-builds/releases). Works great with [VLC](https://www.videolan.org/vlc/download-windows.html).
