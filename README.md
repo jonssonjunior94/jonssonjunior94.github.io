@@ -130,6 +130,22 @@ A window will open with different activation methods, press `1` for HWID (Digita
 
 &nbsp;
 
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
 ### Windows (extras)
 
 &nbsp;
