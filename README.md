@@ -41,8 +41,6 @@
 
 &nbsp;
 
-&nbsp;
-
 ### Web browsers
 
 #### Firefox
