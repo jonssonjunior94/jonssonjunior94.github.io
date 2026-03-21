@@ -16,7 +16,7 @@
 - [ShareX](https://github.com/ShareX/ShareX/releases) - Lets you take screenshots of any selected area with a single key.
 - [Discord portable](https://github.com/portapps/discord-portable) - Portable instead of the regular auto install.
 - [Libre Hardware Monitor](https://github.com/LibreHardwareMonitor/LibreHardwareMonitor) - Libre Hardware Monitor, a fork of Open Hardware Monitor.
-- [HWiNFO](https://www.hwinfo.com/download/)
+- [HWiNFO](https://www.hwinfo.com/download/) - System Information and Diagnostics. Comprehensive Hardware Analysis, Monitoring and Reporting.
 - [Geek Uninstaller](https://geekuninstaller.com/) - Geek Uninstaller is a perfectly functional uninstaller. Also removes attached registry keys.
 - [Olive Video Editor](https://github.com/olive-editor/olive) Free open-source non-linear video editor.
 - [Twinkle Tray](https://github.com/xanderfrangos/twinkle-tray) Monitor Brightness Slider. Make it portable by opening the .exe archive with [7-Zip](https://www.7-zip.org/download.html) and extract `Twinkle.Tray.v1.16.6.exe\$PLUGINSDIR\app-64.7z\` to chosen location.
