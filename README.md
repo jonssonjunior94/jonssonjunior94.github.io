@@ -43,6 +43,27 @@
 
 &nbsp;
 
+### Web browsers
+
+#### Firefox
+
+- [Mozilla FTP](https://ftp.mozilla.org/pub/firefox/releases/) Installer. Ctrl+F search for the [latest version](https://www.mozilla.org/en-US/firefox/releases/).
+- [Mozilla FTP - Nightly](https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/) Installer or Portable. Ctrl+F search for the [latest version](https://www.mozilla.org/en-US/firefox/140.0a1/releasenotes/).
+- [Firefox Profilemaker](https://ffprofile.com/) Tool to create a Firefox profile with the defaults you like.
+- Extras: [Compact Mode](https://support.mozilla.org/en-US/kb/compact-mode-workaround-firefox)
+- Browser Extensions [uBlock Origin](https://github.com/gorhill/uBlock) [SponsorBlock](https://github.com/ajayyy/SponsorBlock) [Imagus](https://addons.mozilla.org/en-US/firefox/addon/imagus/) [Buster](https://github.com/dessant/buster) [Gumbo](https://addons.mozilla.org/en-US/firefox/addon/gumbo-twitch-companion/) [Mail Checker](https://addons.mozilla.org/en-US/firefox/addon/ff-google-mail-checker/)
+
+
+
+#### Chrome
+
+- [Ungoogled-Chromium](https://github.com/ungoogled-software/ungoogled-chromium-windows/releases)
+Disable "Clear Cookies" to save settings and login information at visited sites. `chrome://settings/cookies`
+
+&nbsp;
+
+&nbsp;
+
 #### Emulators
 - [Yuzu](https://github.com/yuzu-emu/yuzu-mainline) (Switch) To make Yuzu portable create a folder named "user" inside the installation directory.
 - [Dolphin](https://dolphin-emu.org/download/) (GameCube/Wii) To make Dolphin emulator portable create a .txt file named "portable" inside the installation directory.
@@ -68,22 +89,6 @@ RIP Yuzu 04-03-2024.
 
 &nbsp;
 
-### Web browsers
-
-#### Firefox
-
-- [Mozilla FTP](https://ftp.mozilla.org/pub/firefox/releases/) Installer. Ctrl+F search for the [latest version](https://www.mozilla.org/en-US/firefox/releases/).
-- [Mozilla FTP - Nightly](https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/) Installer or Portable. Ctrl+F search for the [latest version](https://www.mozilla.org/en-US/firefox/140.0a1/releasenotes/).
-- [Firefox Profilemaker](https://ffprofile.com/) Tool to create a Firefox profile with the defaults you like.
-- Extras: [Compact Mode](https://support.mozilla.org/en-US/kb/compact-mode-workaround-firefox)
-- Browser Extensions [uBlock Origin](https://github.com/gorhill/uBlock) [SponsorBlock](https://github.com/ajayyy/SponsorBlock) [Imagus](https://addons.mozilla.org/en-US/firefox/addon/imagus/) [Buster](https://github.com/dessant/buster) [Gumbo](https://addons.mozilla.org/en-US/firefox/addon/gumbo-twitch-companion/) [Mail Checker](https://addons.mozilla.org/en-US/firefox/addon/ff-google-mail-checker/)
-
-
-
-#### Chrome
-
-- [Ungoogled-Chromium](https://github.com/ungoogled-software/ungoogled-chromium-windows/releases)
-Disable "Clear Cookies" to save settings and login information at visited sites. `chrome://settings/cookies`
 - [Chrome Bookmarks Recovery Tool](https://rongjiecomputer.github.io/chrome/bookmark-recovery/#windows) Best way i have found to back up bookmarks from Google Chrome as a .html file to easily use with Ungoogled Chromium.
 
 &nbsp;
