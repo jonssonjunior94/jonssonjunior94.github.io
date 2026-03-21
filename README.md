@@ -41,6 +41,8 @@
 
 &nbsp;
 
+&nbsp;
+
 #### Emulators
 - [Yuzu](https://github.com/yuzu-emu/yuzu-mainline) (Switch) To make Yuzu portable create a folder named "user" inside the installation directory.
 - [Dolphin](https://dolphin-emu.org/download/) (GameCube/Wii) To make Dolphin emulator portable create a .txt file named "portable" inside the installation directory.
@@ -49,6 +51,8 @@
 
 RIP Yuzu 04-03-2024.
 
+
+&nbsp;
 
 &nbsp;
 
@@ -73,11 +77,15 @@ RIP Yuzu 04-03-2024.
 
 &nbsp;
 
+&nbsp;
+
 #### Chrome
 
 - [Ungoogled-Chromium](https://github.com/ungoogled-software/ungoogled-chromium-windows/releases)
 Disable "Clear Cookies" to save settings and login information at visited sites. `chrome://settings/cookies`
 - [Chrome Bookmarks Recovery Tool](https://rongjiecomputer.github.io/chrome/bookmark-recovery/#windows) Best way i have found to back up bookmarks from Google Chrome as a .html file to easily use with Ungoogled Chromium.
+
+&nbsp;
 
 &nbsp;
 
