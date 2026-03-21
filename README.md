@@ -93,6 +93,8 @@ Disable "Clear Cookies" to save settings and login information at visited sites.
 - [Crazy Max's Microsoft Telemetry](https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/spy.txt)
 - [AI Blocklist](https://raw.githubusercontent.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist/main/list.txt)
 
+- [Blocklist Collection](https://firebog.net/)
+
 &nbsp;
 
 &nbsp;
