@@ -56,7 +56,7 @@ RIP Yuzu 04-03-2024.
 
 &nbsp;
 
-#### USB Tools & Operating Systems
+### USB Tools & Operating Systems
 
 - [Rufus](https://rufus.ie/downloads/) Rufus is a utility that helps format and create bootable USB flash drives.
 - [Ventoy](https://github.com/ventoy/Ventoy/releases) Ventoy is an open source tool to create bootable USB drive for ISO/WIM/IMG/VHD(x)/EFI files.
@@ -67,7 +67,7 @@ RIP Yuzu 04-03-2024.
 
 &nbsp;
 
-#### Firefox
+### Firefox
 
 - [Mozilla FTP](https://ftp.mozilla.org/pub/firefox/releases/) Installer. Ctrl+F search for the [latest version](https://www.mozilla.org/en-US/firefox/releases/).
 - [Mozilla FTP - Nightly](https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/) Installer or Portable. Ctrl+F search for the [latest version](https://www.mozilla.org/en-US/firefox/140.0a1/releasenotes/).
@@ -79,7 +79,7 @@ RIP Yuzu 04-03-2024.
 
 &nbsp;
 
-#### Chrome
+### Chrome
 
 - [Ungoogled-Chromium](https://github.com/ungoogled-software/ungoogled-chromium-windows/releases)
 Disable "Clear Cookies" to save settings and login information at visited sites. `chrome://settings/cookies`
