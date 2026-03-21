@@ -92,7 +92,7 @@ Disable "Clear Cookies" to save settings and login information at visited sites.
 - [Perflyst's Android Trackers](https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/android-tracking.txt)
 - [Crazy Max's Microsoft Telemetry](https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/spy.txt)
 - [AI Blocklist](https://raw.githubusercontent.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist/main/list.txt)
-
+&nbsp;
 - [Blocklist Collection](https://firebog.net/)
 
 &nbsp;
