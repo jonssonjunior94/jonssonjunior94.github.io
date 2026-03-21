@@ -83,12 +83,6 @@ Disable "Clear Cookies" to save settings and login information at visited sites.
 
 &nbsp;
 
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
 ##### DNS Blocklists ([DNS Benchmark](https://www.grc.com/dns/benchmark.htm)) 
 - [HaGeZi's Blocklist](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/pro.txt)
 - [hBlock - Adblock](https://hblock.molinero.dev/hosts_adblock.txt)
