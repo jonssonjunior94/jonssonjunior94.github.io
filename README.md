@@ -55,8 +55,6 @@ RIP Yuzu 04-03-2024.
 
 &nbsp;
 
-&nbsp;
-
 ### USB Tools & Operating Systems
 
 - [Rufus](https://rufus.ie/downloads/) Rufus is a utility that helps format and create bootable USB flash drives.
