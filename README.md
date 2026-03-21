@@ -48,12 +48,12 @@
 - [Cemu](https://wiki.cemu.info/wiki/Release_1.26.2f) (Wii U) Cemu is already portable.
 - [PCSX2](https://github.com/PCSX2/pcsx2) Playstation 2 Emulator. [Compatibility List](https://pcsx2.net/compat/)
 
-###### Decompilation projects with PC ports using your own ROM.
+##### Decompilation projects with PC ports using your own ROM.
 
 - [The Legend of Zelda: Ocarina of Time](https://github.com/HarbourMasters/Shipwright/releases?ref=readonlymemo.com) (SOH) is built atop a custom library dubbed libultraship (LUS).
 - [The Legend of Zelda: Majora's Mask](https://github.com/HarbourMasters/2ship2harkinian/releases?ref=readonlymemo.com) 2Ship does not include any copyrighted assets.
 
-###### N64 Recompiled PC ports
+##### N64 Recompiled PC ports
 
 - [Banjo-Kazooie](https://github.com/BanjoRecomp/BanjoRecomp/releases?ref=readonlymemo.com) PC Port of Banjo-Kazooie made using N64: Recompiled. [Mods](https://thunderstore.io/c/banjo-recompiled/?ref=readonlymemo.com)
 - [Mario Kart 64](https://github.com/sonicdcer/MarioKart64Recomp/releases?ref=readonlymemo.com) Recompilation of MarioKart 64.
