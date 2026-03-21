@@ -46,6 +46,7 @@
 - [Cemu](https://wiki.cemu.info/wiki/Release_1.26.2f) (Wii U) Cemu is already portable.
 - [PCSX2](https://github.com/PCSX2/pcsx2) Playstation 2 Emulator. [Compatibility List](https://pcsx2.net/compat/)
 
+&nbsp;
 
 &nbsp;
 
