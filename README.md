@@ -41,6 +41,14 @@
 
 &nbsp;
 
+- [Yuzu](https://github.com/yuzu-emu/yuzu-mainline) (Switch) To make Yuzu portable create a folder named "user" inside the installation directory.
+- [Dolphin](https://dolphin-emu.org/download/) (GameCube/Wii) To make Dolphin emulator portable create a .txt file named "portable" inside the installation directory.
+- [Cemu](https://wiki.cemu.info/wiki/Release_1.26.2f) (Wii U) Cemu is already portable.
+- [PCSX2](https://github.com/PCSX2/pcsx2) Playstation 2 Emulator. [Compatibility List](https://pcsx2.net/compat/)
+
+
+&nbsp;
+
 ### Web browsers
 
 #### Firefox
@@ -57,18 +65,6 @@
 
 - [Ungoogled-Chromium](https://github.com/ungoogled-software/ungoogled-chromium-windows/releases)
 Disable "Clear Cookies" to save settings and login information at visited sites. `chrome://settings/cookies`
-
-&nbsp;
-
-&nbsp;
-
-#### Emulators
-- [Yuzu](https://github.com/yuzu-emu/yuzu-mainline) (Switch) To make Yuzu portable create a folder named "user" inside the installation directory.
-- [Dolphin](https://dolphin-emu.org/download/) (GameCube/Wii) To make Dolphin emulator portable create a .txt file named "portable" inside the installation directory.
-- [Cemu](https://wiki.cemu.info/wiki/Release_1.26.2f) (Wii U) Cemu is already portable.
-- [PCSX2](https://github.com/PCSX2/pcsx2) Playstation 2 Emulator. [Compatibility List](https://pcsx2.net/compat/)
-
-RIP Yuzu 04-03-2024.
 
 &nbsp;
 
