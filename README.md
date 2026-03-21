@@ -50,14 +50,13 @@
 
 ###### Decompilation projects with PC ports using your own ROM.
 
-- [The Legend of Zelda: Ocarina of Time](https://github.com/HarbourMasters/Shipwright/releases?ref=readonlymemo.com) Ship of Harkinian (SOH) is built atop a custom library dubbed libultraship (LUS).
-- [The Legend of Zelda: Majora's Mask](https://github.com/HarbourMasters/2ship2harkinian/releases?ref=readonlymemo.com)
-- [Super Mario 64](https://github.com/HarbourMasters/Ghostship/releases?ref=readonlymemo.com)
+- [The Legend of Zelda: Ocarina of Time](https://github.com/HarbourMasters/Shipwright/releases?ref=readonlymemo.com) (SOH) is built atop a custom library dubbed libultraship (LUS).
+- [The Legend of Zelda: Majora's Mask](https://github.com/HarbourMasters/2ship2harkinian/releases?ref=readonlymemo.com) 2Ship does not include any copyrighted assets.
 
 ###### N64 Recompiled PC ports
 
-- [Banjo-Kazooie](https://github.com/BanjoRecomp/BanjoRecomp/releases?ref=readonlymemo.com) - [Mods](https://thunderstore.io/c/banjo-recompiled/?ref=readonlymemo.com)
-- [Mario Kart 64](https://github.com/sonicdcer/MarioKart64Recomp/releases?ref=readonlymemo.com)
+- [Banjo-Kazooie](https://github.com/BanjoRecomp/BanjoRecomp/releases?ref=readonlymemo.com) PC Port of Banjo-Kazooie made using N64: Recompiled. [Mods](https://thunderstore.io/c/banjo-recompiled/?ref=readonlymemo.com)
+- [Mario Kart 64](https://github.com/sonicdcer/MarioKart64Recomp/releases?ref=readonlymemo.com) Recompilation of MarioKart 64.
 
 &nbsp;
 
