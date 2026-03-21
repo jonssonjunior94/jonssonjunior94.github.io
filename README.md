@@ -56,7 +56,7 @@
 
 ###### N64 Recompiled PC ports
 
-- [Banjo-Kazooie](https://github.com/BanjoRecomp/BanjoRecomp/releases?ref=readonlymemo.com) [Mods](https://thunderstore.io/c/banjo-recompiled/?ref=readonlymemo.com)
+- [Banjo-Kazooie](https://github.com/BanjoRecomp/BanjoRecomp/releases?ref=readonlymemo.com) - [Mods](https://thunderstore.io/c/banjo-recompiled/?ref=readonlymemo.com)
 - [Mario Kart 64](https://github.com/sonicdcer/MarioKart64Recomp/releases?ref=readonlymemo.com)
 
 &nbsp;
