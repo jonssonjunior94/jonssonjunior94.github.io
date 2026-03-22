@@ -110,7 +110,7 @@ Disable "Clear Cookies" to save settings and login information at visited sites.
 
 &nbsp;
 
-- [DNS Benchmark](https://www.grc.com/dns/benchmark.htm)
+- [DNS Performance Benchmark](https://www.grc.com/dns/benchmark.htm)
 
 &nbsp;
 
