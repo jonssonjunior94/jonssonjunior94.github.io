@@ -95,7 +95,8 @@ Disable "Clear Cookies" to save settings and login information at visited sites.
 
 &nbsp;
 
-##### DNS Blocklists ([DNS Benchmark](https://www.grc.com/dns/benchmark.htm)) 
+### [DNS Blocklist](https://firebog.net/) - For a better internet
+
 - [HaGeZi's Blocklist](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/pro.txt)
 - [hBlock - Adblock](https://hblock.molinero.dev/hosts_adblock.txt)
 - [OISD BIG](https://big.oisd.nl/)
@@ -107,9 +108,7 @@ Disable "Clear Cookies" to save settings and login information at visited sites.
 - [Crazy Max's Microsoft Telemetry](https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/spy.txt)
 - [AI Blocklist](https://raw.githubusercontent.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist/main/list.txt)
 
-&nbsp;
-
-- [Blocklist Collection](https://firebog.net/)
+- [DNS Benchmark](https://www.grc.com/dns/benchmark.htm)
 
 &nbsp;
 
