@@ -112,7 +112,7 @@ Disable "Clear Cookies" to save settings and login information at visited sites.
 
 [AdGuard Home](https://github.com/AdguardTeam/Adguardhome) Network-wide ads & trackers blocking DNS server.
 &nbsp;
-[Pi-Hole](https://github.com/pi-hole/pi-hole) A black hole for Internet advertisements.
+
 
 - [DNS Performance Benchmark](https://www.grc.com/dns/benchmark.htm)
 
