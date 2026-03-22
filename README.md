@@ -114,9 +114,9 @@ Disable "Clear Cookies" to save settings and login information at visited sites.
 &nbsp;
 - DNS queries
 
-- `https://dns10.quad9.net/dns-query`
-- `https://dns.cloudflare.com/dns-query`
-- `https://dns.mullvad.net:443/dns-query`
+ `https://dns10.quad9.net/dns-query`
+ `https://dns.cloudflare.com/dns-query`
+ `https://dns.mullvad.net:443/dns-query`
 
 - [DNS Performance Benchmark](https://www.grc.com/dns/benchmark.htm)
 
