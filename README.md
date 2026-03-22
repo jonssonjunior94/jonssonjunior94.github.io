@@ -110,9 +110,10 @@ Disable "Clear Cookies" to save settings and login information at visited sites.
 
 &nbsp;
 
-[AdGuard Home](https://github.com/AdguardTeam/Adguardhome) Network-wide ads & trackers blocking DNS server.
+- [AdGuard Home](https://github.com/AdguardTeam/Adguardhome) Network-wide ads & trackers blocking DNS server.
 &nbsp;
-DNS queries
+- DNS queries
+
 - `https://dns10.quad9.net/dns-query`
 - `https://dns.cloudflare.com/dns-query`
 - `https://dns.mullvad.net:443/dns-query`
