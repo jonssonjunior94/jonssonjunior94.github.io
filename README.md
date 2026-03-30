@@ -43,7 +43,7 @@
 
 ##### Emulator
 
-- [Yuzu](https://github.com/yuzu-emu/yuzu-mainline) (Switch) To make Yuzu portable create a folder named "user" inside the installation directory.
+- ~~[Yuzu](https://github.com/yuzu-emu/yuzu-mainline)~~ (Switch) To make Yuzu portable create a folder named "user" inside the installation directory. RIP March 4, 2024.
 - [Dolphin](https://dolphin-emu.org/download/) (GameCube/Wii) To make Dolphin emulator portable create a .txt file named "portable" inside the installation directory.
 - [Cemu](https://wiki.cemu.info/wiki/Release_1.26.2f) (Wii U) Cemu is already portable.
 - [PCSX2](https://github.com/PCSX2/pcsx2) Playstation 2 Emulator. [Compatibility List](https://pcsx2.net/compat/)
