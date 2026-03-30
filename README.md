@@ -130,7 +130,7 @@ Disable "Clear Cookies" to save settings and login information at visited sites.
 
 ### Windows 
 
-- [W10 IoT Enterprise LTSC - Build 19044.1288](https://drive.massgrave.dev/en-us_windows_10_iot_enterprise_ltsc_2021_x64_dvd_257ad90f.iso) Is a specialized version of Windows, with support until 2032 unlike the standard version that hits EOL on October 14 2025. LTSC Minimizes feature updates and is focusing on essential security and quality updates instead. This contrasts with the standard Windows 10 versions, which receive feature updates more frequently. You could also use a program like [NTLite](https://www.ntlite.com/download/) to edit the ISO and pre-set settings and or remove features/bloat.
+- [W10 IoT Enterprise LTSC - Build 19044.1288](https://massgrave.dev/windows_ltsc_links) Is a specialized version of Windows, with support until 2032 unlike the standard version that hits EOL on October 14 2025. LTSC Minimizes feature updates and is focusing on essential security and quality updates instead. This contrasts with the standard Windows 10 versions, which receive feature updates more frequently. You could also use a program like [NTLite](https://www.ntlite.com/download/) to edit the ISO and pre-set settings and or remove features/bloat.
 
 - W10 IoT LTSC Key: `QPM6N-7J2WJ-P88HH-P3YRH-YY74H`
 
