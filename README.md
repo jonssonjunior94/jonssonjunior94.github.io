@@ -168,74 +168,9 @@ And double-click: Do not include drivers with Windows Updates
 
 <img width="686" height="633" alt="mmc_DtOMIfqOBa" src="https://github.com/user-attachments/assets/e355ac2c-9220-4bb1-8228-64bc856c2f1d" />
 
-
 &nbsp;
 
 &nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-### Windows (extras)
 
 &nbsp;
 
@@ -258,12 +193,6 @@ Type `powershell` and then press Enter.
 Type `powercfg -duplicatescheme 8c5e7fda-e8bf-4a96-9a85-a6e23a8c635c` in Powershell and press Enter.
 
 Done.
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
 
 &nbsp;
 
@@ -294,11 +223,6 @@ Done.
 
 &nbsp;
 
-&nbsp;
-
-&nbsp;
-
-&nbsp;
 
 ### Taskbar Clock
 
@@ -344,11 +268,6 @@ Done.
 
 &nbsp;
 
-&nbsp;
-
-&nbsp;
-
-&nbsp;
 
 ### Require UAC Password
 
@@ -376,9 +295,4 @@ Done.
 
 &nbsp;
 
-&nbsp;
-
-&nbsp;
-
-&nbsp;
 
