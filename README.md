@@ -156,9 +156,15 @@ Open PowerShell (Press the Windows + R, Type powershell and then press Enter.) a
 
 Navigate to: Computer Configuration → Administrative Templates → Windows Components → Windows Update 
 
+&nbsp;
+
 <img width="1231" height="827" alt="mmc_2ilvV4PWet" src="https://github.com/user-attachments/assets/322d337d-0e2a-4ffb-8a39-5cca68653637" />
 
+&nbsp;
+
 And double-click: Do not include drivers with Windows Updates
+
+&nbsp;
 
 <img width="686" height="633" alt="mmc_DtOMIfqOBa" src="https://github.com/user-attachments/assets/e355ac2c-9220-4bb1-8228-64bc856c2f1d" />
 
