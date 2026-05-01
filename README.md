@@ -150,7 +150,7 @@ A window will open with different activation methods, press `1` for HWID (Digita
 
 &nbsp;
 
-#### Stop Windows from overriding your drivers
+### Stop Windows from overriding your drivers
 
 Open PowerShell (Press the Windows + R, Type powershell and then press Enter.) and type `gpedit.msc`
 
