@@ -160,7 +160,7 @@ Navigate to: Computer Configuration → Administrative Templates → Windows Com
 
 &nbsp;
 
-<img width="1231" height="827" alt="mmc_2ilvV4PWet" src="https://github.com/user-attachments/assets/322d337d-0e2a-4ffb-8a39-5cca68653637" />
+<img width="1136" height="587" alt="mmc_CRfOpJZl8W" src="https://github.com/user-attachments/assets/e7a124a3-130f-42cb-a616-94115f5441ab" />
 
 &nbsp;
 
