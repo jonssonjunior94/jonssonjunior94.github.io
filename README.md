@@ -14,6 +14,7 @@
 
 - [7-Zip](https://www.7-zip.org/download.html) - File archiver with a high compression ratio and built-in encryption functionality.
 - [ShareX](https://github.com/ShareX/ShareX/releases) - Lets you take screenshots of any selected area with a single key.
+- [qView](https://github.com/jurplel/qView/releases) - Practical and minimal image viewer.
 - [Discord portable](https://github.com/portapps/discord-portable) - Portable instead of the regular auto install.
 - [Libre Hardware Monitor](https://github.com/LibreHardwareMonitor/LibreHardwareMonitor) - Libre Hardware Monitor, a fork of Open Hardware Monitor.
 - [HWiNFO](https://www.hwinfo.com/download/) - System Information and Diagnostics. Comprehensive Hardware Analysis, Monitoring and Reporting.
