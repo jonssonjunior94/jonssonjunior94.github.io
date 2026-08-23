@@ -12,7 +12,7 @@
 ### Portable Applications
 
 
-- [7-Zip](https://www.7-zip.org/download.html) - File archiver with a high compression ratio and built-in encryption functionality.
+- [7-Zip](https://www.7-zip.org/download.html) - File archiver with a high compression ratio and built-in encryption functionality. [ImgLink](https://imglink.cc/cdn/a-fv3qSxoc.png)
 - [ShareX](https://github.com/ShareX/ShareX/releases) - Lets you take screenshots of any selected area with a single key.
 - [qView](https://github.com/jurplel/qView/releases) - Practical and minimal image viewer. [ImgLink](https://imglink.cc/cdn/PFfeHCc5ac.png)
 - [Discord portable](https://github.com/portapps/discord-portable) - Portable instead of the regular auto install.
