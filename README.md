@@ -96,7 +96,7 @@ Disable "Clear Cookies" to save settings and login information at visited sites.
 
 &nbsp;
 
-### [Firebog - a popular curated collection of blocklists](https://firebog.net/) - For a better internet
+### [Firebog](https://firebog.net/) - For a better internet
 
 - [HaGeZi's Blocklist](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/pro.txt)
 - [hBlock - Adblock](https://hblock.molinero.dev/hosts_adblock.txt)
