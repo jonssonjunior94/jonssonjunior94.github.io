@@ -72,6 +72,7 @@
 - [Firefox Profilemaker](https://ffprofile.com/) Tool to create a Firefox profile with the defaults you like.
 - Extras: [Compact Mode](https://support.mozilla.org/en-US/kb/compact-mode-workaround-firefox)
 - Browser Extensions [uBlock Origin](https://github.com/gorhill/uBlock) [SponsorBlock](https://github.com/ajayyy/SponsorBlock) [Imagus](https://addons.mozilla.org/en-US/firefox/addon/imagus/) [Buster](https://github.com/dessant/buster) [Gumbo](https://addons.mozilla.org/en-US/firefox/addon/gumbo-twitch-companion/) [Mail Checker](https://addons.mozilla.org/en-US/firefox/addon/ff-google-mail-checker/) [Volume Control](https://addons.mozilla.org/en-US/firefox/addon/volume-control-boost-volume/)
+- To revert from the nova GUI, go to `about:config` and change `browser.nova.enabled` to false.
 
 
 
